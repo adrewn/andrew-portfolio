@@ -10,7 +10,7 @@ function Footer() {
           className="icon"
         />
       </a>
-      <a href="www.linkedin.com/in/hung-nguyen-toronto">
+      <a href="https://linkedin.com/in/hung-nguyen-toronto">
         <img
           src="https://img.icons8.com/fluent/48/000000/linkedin.png"
           alt="LinkedIn"
