@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Stair By Ted",
+    "image": "https://i.imgur.com/yHv19xH.png",
+    "github": "https://github.com/adrewn/stairbyTed",
+    "deploy": "https://stairbyted.netlify.app/",
+    "topics": "HTML5, CSS3, JavaScript, responsive website"
+  },
+  {
+    "id": 2,
+    "name": "Skip the Meals",
+    "image": "https://i.imgur.com/vDuH2Sg.png",
+    "github": "https://github.com/adrewn/SkiptheMeals_React",
+    "deploy": "https://skipmeal-d365b.web.app/",
+    "topics": "ReactJS, React Hooks, useContext() to manage states, Add to Cart, Increment and Decrement number of order, fetch Menu and post cart, user information to Api"
+  },
+  {
+    "id": 3,
+    "name": "Workout Tracking",
+    "image": "https://i.imgur.com/ntZm0F2.png",
+    "github": "https://github.com/adrewn/workout-record-app",
+    "deploy": "https://workout-record-app.netlify.app/",
+    "topics": "HTML, CSS, JavaScript ES6, class, objects, DOM manipulation, JS methods, get data from API, post data to API "
+  }
+]
