@@ -8,19 +8,19 @@ function Resume() {
 
       <div>
         <div class="mt-5">
-          <h2 className="top-title">Hung Nguyen</h2>
+          <h2 className="top-title">Andrew Nguyen</h2>
           <ul>
             <li>
               Front-end web developer. <br />
               Location: Toronto, Ontario (Willing to relocate anywhere in
               Canada). <br />
               Tel: +1 (647) 819 7474 (Text prefer). <br />
-              Email: hungsim74@gmail.com
+              Email: andrew.nguyen.rv@gmail.com
             </li>
           </ul>
 
           <p class="mt-5">
-            <a href="www.linkedin.com/in/hung-nguyen-toronto">
+            <a href="https://www.linkedin.com/in/andrew-nguyen-rv/">
               <img
                 src="https://img.icons8.com/fluent/48/000000/linkedin.png"
                 alt="inkedIn"
@@ -28,7 +28,10 @@ function Resume() {
             </a>
           </p>
 
-          <a href="" class="link">
+          <a
+            href="https://drive.google.com/file/d/1gx40LgKLqMkwrak6lWJ0TqbX_q3pgTLI/view?usp=sharing"
+            class="link"
+          >
             Download Resume
           </a>
         </div>
@@ -39,7 +42,7 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-              Programming languages: C, C++, JavaScript ES6, (HTML, CSS)
+              Programming languages: C, C++,Java, JavaScript ES6, (HTML, CSS)
               <br />
               FrameWorks: ReactJS, NextJS, NodeJS
               <br />

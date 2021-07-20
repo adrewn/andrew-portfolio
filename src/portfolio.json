@@ -22,5 +22,13 @@
     "github": "https://github.com/adrewn/workout-record-app",
     "deploy": "https://workout-record-app.netlify.app/",
     "topics": "HTML, CSS, JavaScript ES6, class, objects, DOM manipulation, JS methods, get data from API, post data to API "
+  },
+  {
+    "id": 4,
+    "name": "Searching Recipe",
+    "image": "https://i.imgur.com/QbIG6l7.png",
+    "github": "https://github.com/adrewn/forkify-search-recipe",
+    "deploy": "https://search-recipe-vn.netlify.app",
+    "topics": "Web application for recipe searching using JavaScript following MVC patterns. Divide whole program into modules well for maintenance and development. It manipulates DOM elements to output the app onto an HTML element."
   }
 ]
